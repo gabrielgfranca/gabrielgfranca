@@ -1,8 +1,6 @@
 # Hello! I'm Gabriel França
 
-I am a back-end developer with a deep passion for programming, visual arts, and cinema. In my free time, I channel my creativity into developing indie games, combining my technical skills and artistic vision to create immersive gaming experiences. With a keen eye for detail and a strong connection to visual storytelling.
-
-My skills range from conceptual design to programming, enabling me to turn creative ideas into interactive realities. In addition to game development, I share my creation process and projects on my YouTube channel, FranzzaTV, offering a unique insight into my work and inspiring others to pursue their own creative journeys. I am always seeking new challenges and opportunities to refine my skills and explore new frontiers in the indie game world.
+This repository is dedicated to my projects and studies in Python. Here, I share solutions, ideas, and insights as I continue to grow in programming.  
 
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
