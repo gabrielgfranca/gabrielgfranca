@@ -12,7 +12,7 @@ My skills range from conceptual design to programming, enabling me to turn creat
 ##
 
 <div> 
-  <a href="https://mail.google.com/mail/u/#inbox?compose=DmwnWrRnZnLQpSCXKXPScFkWVmzrHVjBfqBFLKLsvcxRnDwDxljRqJbkNWLtDkLtHjGZGlnCfQgL" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqVwsKcwNKbbZHLfGhTkRKJnhSqfgVvSDdVDBWJrWWGgRkvFNXJQxThdTKwQFKDTtrTDFg" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-fran%C3%A7a-b73899216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://leetcode.com/u/GabrielgFranca/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
   <a href="https://www.codewars.com/users/gabrielgfranca" target="_blank"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" target="_blank"></a>
