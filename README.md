@@ -2,6 +2,8 @@
 
 This repository is dedicated to my projects and studies in Python. Here, I share solutions, ideas, and insights as I continue to grow in programming.  
 
+*Current Course: 100 Days of Code The Complete Python Pro Bootcamp (Udemy)*
+
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
