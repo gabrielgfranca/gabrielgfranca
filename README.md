@@ -1,8 +1,8 @@
 # Hello! I'm Gabriel França
 
-This repository is dedicated to my projects and studies in Python and Rust. Here, I share solutions, ideas, and insights as I continue to grow in programming and Software Development.  
+This repository is dedicated to my projects and studies in Python and Rust. Here, I share solutions, ideas, and insights as I continue to grow in programming and software development.
 
-*Current Studing : Python and Rust*
+*Currently studying: Python and Rust.*
 
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
