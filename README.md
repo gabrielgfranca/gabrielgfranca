@@ -1,13 +1,14 @@
 # Hello! I'm Gabriel França
 
-This repository is dedicated to my projects and studies in Python and Rust. Here, I share solutions, ideas, and insights as I continue to grow in programming and software development.
+This repository is dedicated to my projects and studies in C, Rust and Python. Here, I share solutions, ideas, and insights as I continue to grow in programming and software development.
 
-*Currently studying: Python and Rust.*
+*Currently studying: C and Rust.*
 
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Gabriel-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+  <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
 ##
