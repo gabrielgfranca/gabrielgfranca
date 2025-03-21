@@ -2,12 +2,11 @@
 
 This repository is dedicated to my projects and studies in C and Python. Here, I share solutions, ideas, and insights as I continue to grow in programming and software development.
 
-*Currently studying: C.*
+*Currently studying: C*
 
 ### Technologies I Use Daily:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Gabriel-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 </div>
 
