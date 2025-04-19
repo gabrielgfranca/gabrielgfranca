@@ -4,10 +4,13 @@ This repository is dedicated to my projects and studies in C and Python. Here, I
 
 *Currently studying: C*
 
-### Technologies I Use Daily:
+### Technologies I Use:
 <div style="display: inline_block"><br>
+  <img align="center" alt="Gabriel-Archlinux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
+  <img align="center" alt="Gabriel-VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Gabriel-UnityEngine" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </div>
 
 ##
