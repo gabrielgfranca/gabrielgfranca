@@ -1,7 +1,7 @@
 # Hello! I'm Gabriel França
-This repository documents my journey towards software engineering, with a special focus on the development of low-level and high-performance systems, such as game engines, operating systems, blockchains, etc. Here, I share projects, studies, and insights as I deepen my knowledge in C. In my free time, I enjoy studying game development with Unity Engine.
+This repository documents my journey towards software engineering, with a **special focus on the development of low-level and high-performance systems**, such as game engines, operating systems, blockchains, and more. Here, I share projects, studies, and insights as I deepen my knowledge.
 
-*Currently studying: C*
+Currently, I am studying **Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning the principles of Computer Science and deepening my knowledge in low-level programming languages like **C, C++, and Rust**.
 
 ##### Programming Languages:
 <div> 
