@@ -1,7 +1,7 @@
 # Hello! I'm Gabriel França
-This repository documents my journey into **Software Development and Engineering, with a special focus on mobile application development**. Here, I share projects, studies, and insights as I deepen my understanding of software development and the engineering principles behind it.
+This repository documents my journey into **Software Development and Engineering**. Here, I share projects, studies, and insights as I deepen my understanding of software development and the engineering principles behind it.
 
-I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core Computer Science concepts and improving my skills in programming languages such as **C, Kotlin, and more**.
+I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core Computer Science concepts and improving my skills in programming languages such as **C**.
 
 ##### Programming Languages:
 <div> 
