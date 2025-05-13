@@ -1,20 +1,24 @@
 # Hello! I'm Gabriel França
-This repository documents my journey towards software engineering, with a **special focus on the development of low-level and high-performance systems**, such as game engines, operating systems, blockchains, and more. Here, I share projects, studies, and insights as I deepen my knowledge.
+This repository documents my journey into **Software Development and Engineering, with a special focus on mobile application development**. Here, I share projects, studies, and insights as I deepen my understanding of software development and the engineering principles behind it.
 
-Currently, I am studying **Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning the principles of Computer Science and deepening my knowledge in low-level programming languages like **C, C++, and Rust**.
+I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core Computer Science concepts and improving my skills in programming languages such as **C, Kotlin, and more**.
 
 ##### Programming Languages:
 <div> 
   <img align="center" alt="Gabriel-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gabriel-Kotlin" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align="center" alt="Gabriel-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <div> 
 
 ### Technologies Used Daily:
 <div> 
-  <img align="center" alt="Gabriel-Archlinux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" /> 
-  <img align="center" alt="Gabriel-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img align="center" alt="Gabriel-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gabriel-Archlinux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
   <img align="center" alt="Gabriel-git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img align="center" alt="Gabriel-gitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="center" alt="Gabriel-VScode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Gabriel-AndroidStudio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="Gabriel-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img align="center" alt="Gabriel-Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
 <div> 
 
 ##
