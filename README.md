@@ -3,7 +3,7 @@ This repository documents my journey into **Software Development and Engineering
 
 I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core back-end development concepts and improving my skills in programming languages such as **Python and Rust**.
 
-##### Development Tools:
+#### Development Tools:
 <div>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
