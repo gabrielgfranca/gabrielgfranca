@@ -1,16 +1,14 @@
 # Hello! I'm Gabriel França
 This repository documents my journey into **Software Development and Engineering**. Here, I share projects, studies, and insights as I deepen my understanding of software development and the engineering principles behind it.
 
-I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core back-end development concepts and improving my skills in programming languages such as **Python and Rust**.
+I am currently **studying Systems Analysis and Development at Universidade do Vale do Rio dos Sinos (Unisinos)**, while also learning core back-end development concepts and improving my skills in programming languages such as **Python, Java, Rust and C**.
 
 #### Development Tools:
 <div>
   <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img align="center" alt="Rust" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img align="center" alt="C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Dart" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
   <img align="center" alt="git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img align="center" alt="gitHub" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 <div> 
