@@ -5,7 +5,7 @@
   At the same time, I continue to improve my knowledge of fundamental backend development concepts with books and courses that complement my university studies, always seeking to expand my knowledge.
 </p>
 
-<h1 align="center">Backend Developer | AI and GameDev Enthusiast</h1>
+<h1 align="center">Backend Developer | AI and Cybersecurity Enthusiast</h1>
 
 ### Technical Stack
 
@@ -20,12 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="50" alt="Linux"/>
 </p>
 
-
-
-### Key studies
-- 🎓 Information Systems Degree
-- 💾 Data Structure and Algorithms
-- ☕ Java
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fran%C3%A7a-b73899216/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielgfranca7@gmail.com)
