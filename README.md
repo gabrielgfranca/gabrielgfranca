@@ -20,6 +20,7 @@ Alongside my university studies, I continuously deepen my understanding of funda
   <img height="50" alt="Java"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
   <img height="50" alt="Python"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   <img height="50" alt="C"        src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1920px-C_Programming_Language.svg.png"/>
+  <img height="50" alt="Rust"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
   <img height="50" alt="SQL"      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
   <img height="50" alt="MySQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
   <img height="50" alt="Git"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
