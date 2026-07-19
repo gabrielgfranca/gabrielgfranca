@@ -26,9 +26,12 @@ Alongside my university studies, I continuously deepen my understanding of compu
   ### 💻Tech Stack:
   <p align="left">
     <img height="50" alt="Java"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+    <img height="50" alt="Spring"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img height="50" alt="Postman"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
     <img height="50" alt="Python"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height="50" alt="MySQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img height="50" alt="Git"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+    <img height="50" alt="Github"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
   </p>
 
 
