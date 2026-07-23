@@ -23,16 +23,27 @@ Alongside my university studies, I continuously deepen my understanding of compu
 
 --- 
   
-  ### 💻Tech Stack:
+  ### 💻Main Stack:
   <p align="left">
     <img height="50" alt="Java"     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
     <img height="50" alt="Spring"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+    <img height="50" alt="Maven"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
     <img height="50" alt="Postman"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-    <img height="50" alt="Python"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
     <img height="50" alt="MySQL"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img height="50" alt="Git"      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
-    <img height="50" alt="Github"   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+    <img height="50" alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
   </p>
+
+#### Other Tools
+<p alingn="left">
+    <img height="45" alt="Python"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+    <img height="45" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img height="45" alt="cpp"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img height="45" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img height="45" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+    <img height="45" alt="cmake" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
+</p>
+  
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
