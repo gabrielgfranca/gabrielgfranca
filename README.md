@@ -1,10 +1,10 @@
 <h1>🧑‍💻Gabriel França!</h1>
 
-**`Software Development Student`**
+**`Software Developer Student`** | **`Game Developer Enthusiast`**
 
 <p>
-I’m a software development student passionate about backend and high-performance software development, currently pursuing a Bachelor’s degree in Information Systems at Universidade do Vale do Rio dos Sinos (Unisinos).
-Alongside my university studies, I continuously deepen my understanding of computer science fundamentals through books and courses — always seeking to expand my knowledge and build practical skills.
+I’m a software development student passionate about backend and game development. Currently pursuing a Bachelor’s degree in Information Systems at Universidade do Vale do Rio dos Sinos (Unisinos).
+Alongside my university studies, i continuously deepen my understanding of computer science fundamentals through books and courses — always seeking to expand my knowledge and build practical skills.
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-fran%C3%A7a-b73899216/)
@@ -37,11 +37,10 @@ Alongside my university studies, I continuously deepen my understanding of compu
 #### Other Tools
 <p alingn="left">
     <img height="45" alt="Python"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-    <img height="45" alt="c" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
-    <img height="45" alt="cpp"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-    <img height="45" alt="rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
-    <img height="45" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-    <img height="45" alt="cmake" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" />
+    <img height="45" alt="C" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" />
+    <img height="45" alt="Cpp"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+    <img height="45" alt="Rust" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+    <img height="45" alt="Godot" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
 </p>
   
 
