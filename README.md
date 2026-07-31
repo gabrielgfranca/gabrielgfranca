@@ -42,7 +42,6 @@ Alongside my university studies, i continuously deepen my understanding of compu
     <img height="45" alt="Cpp"    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
     <img height="45" alt="C#"     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
     <img height="45" alt="Godot"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" />
-    <img height="45" alt="Unity"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
 </p>
   
 
